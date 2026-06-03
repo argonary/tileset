@@ -1,0 +1,38 @@
+version: 2
+
+models:
+  - name: mart_regional_demand_signals
+    description: >
+      Regional demand intelligence table. One row per region per month.
+      Joins national construction macro signals (mortgage rates, housing starts,
+      building permits) to internal regional sales data. Flags regions where
+      permit growth is outpacing revenue growth as demand opportunities.
+    columns:
+      - name: region
+        description: "Geographic sales region."
+        tests: [not_null]
+      - name: signal_month
+        description: "First day of the month — primary time dimension."
+        tests: [not_null]
+      - name: avg_mortgage_rate
+        description: "Average 30-year fixed mortgage rate for the month."
+      - name: starts_thousands
+        description: "Housing units started that month, in thousands."
+      - name: permits_issued
+        description: "Building permits issued that month."
+      - name: units_sold
+        description: "Internal: total units sold across all product lines in this region."
+        tests: [not_null]
+      - name: revenue
+        description: "Internal: total revenue across all product lines in this region."
+        tests: [not_null]
+      - name: permits_mom_growth
+        description: "Month-over-month % change in national permit volume. Null for first month."
+      - name: revenue_mom_growth
+        description: "Month-over-month % change in regional revenue. Null for first month per region."
+      - name: demand_gap_flag
+        description: "Accelerating / Flat / Decelerating based on permits vs revenue growth gap."
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['Accelerating', 'Flat', 'Decelerating']
