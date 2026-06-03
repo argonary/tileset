@@ -1,0 +1,1201 @@
+region,sale_month,product_line,units_sold,revenue
+Northeast,2020-01,Floor Tile,393,15721.98
+Northeast,2020-01,Wall Tile,365,13486.09
+Northeast,2020-01,Stone,400,34600.78
+Northeast,2020-01,Mosaic,412,24488.88
+Southeast,2020-01,Floor Tile,460,18411.57
+Southeast,2020-01,Wall Tile,441,16766.97
+Southeast,2020-01,Stone,423,34872.17
+Southeast,2020-01,Mosaic,481,29956.02
+Midwest,2020-01,Floor Tile,320,13559.97
+Midwest,2020-01,Wall Tile,361,13041.01
+Midwest,2020-01,Stone,360,31206.31
+Midwest,2020-01,Mosaic,329,19695.25
+Southwest,2020-01,Floor Tile,556,22970.42
+Southwest,2020-01,Wall Tile,468,17066.8
+Southwest,2020-01,Stone,545,46805.51
+Southwest,2020-01,Mosaic,541,34312.57
+West,2020-01,Floor Tile,428,18826.47
+West,2020-01,Wall Tile,414,15813.87
+West,2020-01,Stone,452,38875.35
+West,2020-01,Mosaic,455,28428.21
+Northeast,2020-02,Floor Tile,468,18763.27
+Northeast,2020-02,Wall Tile,425,15809.86
+Northeast,2020-02,Stone,412,34084.23
+Northeast,2020-02,Mosaic,414,25098.1
+Southeast,2020-02,Floor Tile,564,23367.81
+Southeast,2020-02,Wall Tile,535,19739.43
+Southeast,2020-02,Stone,524,46484.86
+Southeast,2020-02,Mosaic,566,35474.96
+Midwest,2020-02,Floor Tile,373,16024.95
+Midwest,2020-02,Wall Tile,373,14003.14
+Midwest,2020-02,Stone,439,37837.41
+Midwest,2020-02,Mosaic,404,25510.42
+Southwest,2020-02,Floor Tile,641,27665.05
+Southwest,2020-02,Wall Tile,567,20537.86
+Southwest,2020-02,Stone,577,47905.89
+Southwest,2020-02,Mosaic,565,36581.51
+West,2020-02,Floor Tile,537,22136.02
+West,2020-02,Wall Tile,515,19365.75
+West,2020-02,Stone,541,45795.78
+West,2020-02,Mosaic,476,28764.25
+Northeast,2020-03,Floor Tile,523,21444.84
+Northeast,2020-03,Wall Tile,526,20783.17
+Northeast,2020-03,Stone,507,41885.41
+Northeast,2020-03,Mosaic,568,35249.55
+Southeast,2020-03,Floor Tile,580,23256.78
+Southeast,2020-03,Wall Tile,583,22436.34
+Southeast,2020-03,Stone,669,56422.36
+Southeast,2020-03,Mosaic,577,35350.5
+Midwest,2020-03,Floor Tile,505,21271.75
+Midwest,2020-03,Wall Tile,503,19803.59
+Midwest,2020-03,Stone,415,36053.6
+Midwest,2020-03,Mosaic,476,29621.11
+Southwest,2020-03,Floor Tile,657,27982.97
+Southwest,2020-03,Wall Tile,636,24010.34
+Southwest,2020-03,Stone,683,60689.63
+Southwest,2020-03,Mosaic,741,44854.96
+West,2020-03,Floor Tile,575,23373.94
+West,2020-03,Wall Tile,622,24511.76
+West,2020-03,Stone,551,47485.77
+West,2020-03,Mosaic,587,35130.54
+Northeast,2020-04,Floor Tile,544,22937.97
+Northeast,2020-04,Wall Tile,546,20810.98
+Northeast,2020-04,Stone,465,38829.98
+Northeast,2020-04,Mosaic,467,30196.41
+Southeast,2020-04,Floor Tile,680,29507.24
+Southeast,2020-04,Wall Tile,608,22082.63
+Southeast,2020-04,Stone,680,60383.37
+Southeast,2020-04,Mosaic,580,35909.62
+Midwest,2020-04,Floor Tile,420,18099.7
+Midwest,2020-04,Wall Tile,484,17708.54
+Midwest,2020-04,Stone,457,39038.46
+Midwest,2020-04,Mosaic,438,28167.38
+Southwest,2020-04,Floor Tile,679,27696.11
+Southwest,2020-04,Wall Tile,695,27017.25
+Southwest,2020-04,Stone,648,54042.93
+Southwest,2020-04,Mosaic,758,47700.37
+West,2020-04,Floor Tile,567,23855.86
+West,2020-04,Wall Tile,531,19622.49
+West,2020-04,Stone,556,47677.35
+West,2020-04,Mosaic,543,32724.08
+Northeast,2020-05,Floor Tile,473,20126.45
+Northeast,2020-05,Wall Tile,489,19335.35
+Northeast,2020-05,Stone,554,45069.17
+Northeast,2020-05,Mosaic,490,30893.35
+Southeast,2020-05,Floor Tile,596,24111.6
+Southeast,2020-05,Wall Tile,687,26291.47
+Southeast,2020-05,Stone,629,54986.72
+Southeast,2020-05,Mosaic,671,40314.04
+Midwest,2020-05,Floor Tile,422,17601.8
+Midwest,2020-05,Wall Tile,452,17119.36
+Midwest,2020-05,Stone,481,41593.8
+Midwest,2020-05,Mosaic,504,29993.14
+Southwest,2020-05,Floor Tile,676,27935.75
+Southwest,2020-05,Wall Tile,739,27376.18
+Southwest,2020-05,Stone,647,54712.4
+Southwest,2020-05,Mosaic,679,41165.72
+West,2020-05,Floor Tile,546,23902.63
+West,2020-05,Wall Tile,568,22363.94
+West,2020-05,Stone,580,47084.4
+West,2020-05,Mosaic,632,40500.69
+Northeast,2020-06,Floor Tile,566,24785.56
+Northeast,2020-06,Wall Tile,553,20312.79
+Northeast,2020-06,Stone,516,42604.5
+Northeast,2020-06,Mosaic,507,30046.61
+Southeast,2020-06,Floor Tile,617,27171.63
+Southeast,2020-06,Wall Tile,602,23525.84
+Southeast,2020-06,Stone,626,52800.32
+Southeast,2020-06,Mosaic,690,44899.42
+Midwest,2020-06,Floor Tile,465,19956.55
+Midwest,2020-06,Wall Tile,428,15933.37
+Midwest,2020-06,Stone,503,43093.54
+Midwest,2020-06,Mosaic,463,29417.84
+Southwest,2020-06,Floor Tile,628,26598.03
+Southwest,2020-06,Wall Tile,690,27144.83
+Southwest,2020-06,Stone,642,57084.47
+Southwest,2020-06,Mosaic,632,37952.94
+West,2020-06,Floor Tile,585,25000.5
+West,2020-06,Wall Tile,544,19886.23
+West,2020-06,Stone,619,51279.71
+West,2020-06,Mosaic,585,36703.0
+Northeast,2020-07,Floor Tile,442,18719.33
+Northeast,2020-07,Wall Tile,452,17922.65
+Northeast,2020-07,Stone,423,36732.32
+Northeast,2020-07,Mosaic,426,26136.75
+Southeast,2020-07,Floor Tile,568,23378.87
+Southeast,2020-07,Wall Tile,529,20608.3
+Southeast,2020-07,Stone,502,42492.0
+Southeast,2020-07,Mosaic,604,39305.78
+Midwest,2020-07,Floor Tile,365,14890.27
+Midwest,2020-07,Wall Tile,381,15105.27
+Midwest,2020-07,Stone,430,37936.23
+Midwest,2020-07,Mosaic,389,23292.55
+Southwest,2020-07,Floor Tile,640,27427.12
+Southwest,2020-07,Wall Tile,613,24428.96
+Southwest,2020-07,Stone,618,49944.59
+Southwest,2020-07,Mosaic,638,38762.42
+West,2020-07,Floor Tile,516,22623.25
+West,2020-07,Wall Tile,463,16917.39
+West,2020-07,Stone,460,39308.1
+West,2020-07,Mosaic,477,29884.02
+Northeast,2020-08,Floor Tile,469,19114.15
+Northeast,2020-08,Wall Tile,462,17141.65
+Northeast,2020-08,Stone,448,39623.52
+Northeast,2020-08,Mosaic,481,28606.15
+Southeast,2020-08,Floor Tile,541,22214.57
+Southeast,2020-08,Wall Tile,495,19319.98
+Southeast,2020-08,Stone,565,46881.79
+Southeast,2020-08,Mosaic,576,35896.56
+Midwest,2020-08,Floor Tile,394,15736.6
+Midwest,2020-08,Wall Tile,366,14440.82
+Midwest,2020-08,Stone,432,36887.41
+Midwest,2020-08,Mosaic,426,26629.92
+Southwest,2020-08,Floor Tile,557,22522.45
+Southwest,2020-08,Wall Tile,576,22761.29
+Southwest,2020-08,Stone,635,55921.89
+Southwest,2020-08,Mosaic,647,38951.0
+West,2020-08,Floor Tile,474,19117.24
+West,2020-08,Wall Tile,528,20834.73
+West,2020-08,Stone,490,42152.56
+West,2020-08,Mosaic,465,30069.35
+Northeast,2020-09,Floor Tile,482,21208.03
+Northeast,2020-09,Wall Tile,477,18817.36
+Northeast,2020-09,Stone,407,35413.39
+Northeast,2020-09,Mosaic,434,28067.24
+Southeast,2020-09,Floor Tile,583,25377.45
+Southeast,2020-09,Wall Tile,584,21674.5
+Southeast,2020-09,Stone,581,47449.58
+Southeast,2020-09,Mosaic,590,37891.73
+Midwest,2020-09,Floor Tile,377,16335.28
+Midwest,2020-09,Wall Tile,396,14754.85
+Midwest,2020-09,Stone,423,34975.57
+Midwest,2020-09,Mosaic,361,21695.16
+Southwest,2020-09,Floor Tile,579,25204.03
+Southwest,2020-09,Wall Tile,656,24377.4
+Southwest,2020-09,Stone,616,51834.72
+Southwest,2020-09,Mosaic,657,40881.52
+West,2020-09,Floor Tile,543,21928.75
+West,2020-09,Wall Tile,547,20117.87
+West,2020-09,Stone,546,45321.53
+West,2020-09,Mosaic,460,28333.38
+Northeast,2020-10,Floor Tile,470,19372.2
+Northeast,2020-10,Wall Tile,459,17461.92
+Northeast,2020-10,Stone,439,37600.79
+Northeast,2020-10,Mosaic,427,27026.74
+Southeast,2020-10,Floor Tile,495,21674.77
+Southeast,2020-10,Wall Tile,554,21513.94
+Southeast,2020-10,Stone,576,49795.4
+Southeast,2020-10,Mosaic,535,31743.6
+Midwest,2020-10,Floor Tile,413,17051.46
+Midwest,2020-10,Wall Tile,385,15139.15
+Midwest,2020-10,Stone,417,34737.24
+Midwest,2020-10,Mosaic,384,23589.9
+Southwest,2020-10,Floor Tile,588,24191.35
+Southwest,2020-10,Wall Tile,555,20922.22
+Southwest,2020-10,Stone,652,56402.7
+Southwest,2020-10,Mosaic,648,40640.09
+West,2020-10,Floor Tile,480,20256.64
+West,2020-10,Wall Tile,450,16735.62
+West,2020-10,Stone,492,42154.5
+West,2020-10,Mosaic,515,31818.21
+Northeast,2020-11,Floor Tile,378,15421.47
+Northeast,2020-11,Wall Tile,380,15019.31
+Northeast,2020-11,Stone,405,33287.91
+Northeast,2020-11,Mosaic,350,21733.53
+Southeast,2020-11,Floor Tile,479,19786.43
+Southeast,2020-11,Wall Tile,497,19360.3
+Southeast,2020-11,Stone,483,39924.51
+Southeast,2020-11,Mosaic,439,25923.58
+Midwest,2020-11,Floor Tile,322,13490.37
+Midwest,2020-11,Wall Tile,363,13204.76
+Midwest,2020-11,Stone,334,28758.4
+Midwest,2020-11,Mosaic,319,20166.35
+Southwest,2020-11,Floor Tile,509,20830.69
+Southwest,2020-11,Wall Tile,525,18963.56
+Southwest,2020-11,Stone,535,46703.04
+Southwest,2020-11,Mosaic,469,28860.34
+West,2020-11,Floor Tile,397,17437.61
+West,2020-11,Wall Tile,426,15459.89
+West,2020-11,Stone,403,35448.23
+West,2020-11,Mosaic,421,26888.76
+Northeast,2020-12,Floor Tile,395,17399.41
+Northeast,2020-12,Wall Tile,389,15447.25
+Northeast,2020-12,Stone,412,35414.51
+Northeast,2020-12,Mosaic,399,24749.82
+Southeast,2020-12,Floor Tile,498,21016.13
+Southeast,2020-12,Wall Tile,504,19618.65
+Southeast,2020-12,Stone,465,38573.2
+Southeast,2020-12,Mosaic,443,27844.1
+Midwest,2020-12,Floor Tile,358,15068.03
+Midwest,2020-12,Wall Tile,348,12925.93
+Midwest,2020-12,Stone,311,25868.57
+Midwest,2020-12,Mosaic,324,19725.83
+Southwest,2020-12,Floor Tile,514,20807.32
+Southwest,2020-12,Wall Tile,482,18671.24
+Southwest,2020-12,Stone,531,43168.15
+Southwest,2020-12,Mosaic,500,31132.09
+West,2020-12,Floor Tile,417,17000.55
+West,2020-12,Wall Tile,418,16527.05
+West,2020-12,Stone,432,37437.96
+West,2020-12,Mosaic,455,28959.24
+Northeast,2021-01,Floor Tile,388,15490.81
+Northeast,2021-01,Wall Tile,386,15039.8
+Northeast,2021-01,Stone,425,37763.02
+Northeast,2021-01,Mosaic,391,24842.03
+Southeast,2021-01,Floor Tile,490,20792.49
+Southeast,2021-01,Wall Tile,459,16952.62
+Southeast,2021-01,Stone,479,38797.42
+Southeast,2021-01,Mosaic,470,29662.02
+Midwest,2021-01,Floor Tile,346,14045.24
+Midwest,2021-01,Wall Tile,351,12841.33
+Midwest,2021-01,Stone,362,29314.48
+Midwest,2021-01,Mosaic,346,21590.13
+Southwest,2021-01,Floor Tile,480,20447.78
+Southwest,2021-01,Wall Tile,491,18586.54
+Southwest,2021-01,Stone,482,40474.69
+Southwest,2021-01,Mosaic,499,30402.3
+West,2021-01,Floor Tile,465,19293.93
+West,2021-01,Wall Tile,464,18217.25
+West,2021-01,Stone,420,34207.41
+West,2021-01,Mosaic,399,24835.51
+Northeast,2021-02,Floor Tile,514,21264.09
+Northeast,2021-02,Wall Tile,482,18831.11
+Northeast,2021-02,Stone,482,42011.59
+Northeast,2021-02,Mosaic,510,30669.38
+Southeast,2021-02,Floor Tile,517,20959.18
+Southeast,2021-02,Wall Tile,529,20442.65
+Southeast,2021-02,Stone,579,47826.96
+Southeast,2021-02,Mosaic,594,37810.93
+Midwest,2021-02,Floor Tile,388,16470.77
+Midwest,2021-02,Wall Tile,436,15929.36
+Midwest,2021-02,Stone,442,39315.96
+Midwest,2021-02,Mosaic,383,22619.68
+Southwest,2021-02,Floor Tile,600,25646.92
+Southwest,2021-02,Wall Tile,681,25610.56
+Southwest,2021-02,Stone,650,52907.38
+Southwest,2021-02,Mosaic,647,40624.42
+West,2021-02,Floor Tile,478,20623.03
+West,2021-02,Wall Tile,556,21340.15
+West,2021-02,Stone,480,42774.08
+West,2021-02,Mosaic,549,33517.91
+Northeast,2021-03,Floor Tile,530,21971.89
+Northeast,2021-03,Wall Tile,538,20119.41
+Northeast,2021-03,Stone,575,50450.39
+Northeast,2021-03,Mosaic,495,32104.16
+Southeast,2021-03,Floor Tile,675,29281.89
+Southeast,2021-03,Wall Tile,685,25862.07
+Southeast,2021-03,Stone,688,61202.09
+Southeast,2021-03,Mosaic,627,40072.09
+Midwest,2021-03,Floor Tile,482,20210.59
+Midwest,2021-03,Wall Tile,472,18350.37
+Midwest,2021-03,Stone,456,40123.24
+Midwest,2021-03,Mosaic,510,30313.03
+Southwest,2021-03,Floor Tile,772,31593.5
+Southwest,2021-03,Wall Tile,712,27354.51
+Southwest,2021-03,Stone,700,56695.76
+Southwest,2021-03,Mosaic,767,46041.02
+West,2021-03,Floor Tile,563,24350.25
+West,2021-03,Wall Tile,578,22799.33
+West,2021-03,Stone,622,51687.13
+West,2021-03,Mosaic,539,34915.34
+Northeast,2021-04,Floor Tile,493,21161.69
+Northeast,2021-04,Wall Tile,536,20893.83
+Northeast,2021-04,Stone,558,48122.02
+Northeast,2021-04,Mosaic,537,34269.29
+Southeast,2021-04,Floor Tile,604,24661.75
+Southeast,2021-04,Wall Tile,683,25451.03
+Southeast,2021-04,Stone,668,56628.17
+Southeast,2021-04,Mosaic,661,40676.7
+Midwest,2021-04,Floor Tile,501,20685.95
+Midwest,2021-04,Wall Tile,497,18453.35
+Midwest,2021-04,Stone,454,37126.11
+Midwest,2021-04,Mosaic,448,26719.28
+Southwest,2021-04,Floor Tile,722,31119.06
+Southwest,2021-04,Wall Tile,672,24811.76
+Southwest,2021-04,Stone,715,62139.92
+Southwest,2021-04,Mosaic,786,48852.06
+West,2021-04,Floor Tile,572,23064.3
+West,2021-04,Wall Tile,561,20737.05
+West,2021-04,Stone,559,45206.48
+West,2021-04,Mosaic,602,36481.64
+Northeast,2021-05,Floor Tile,589,24870.0
+Northeast,2021-05,Wall Tile,559,20448.14
+Northeast,2021-05,Stone,577,49000.26
+Northeast,2021-05,Mosaic,578,36101.42
+Southeast,2021-05,Floor Tile,653,27262.73
+Southeast,2021-05,Wall Tile,616,22357.86
+Southeast,2021-05,Stone,715,60639.65
+Southeast,2021-05,Mosaic,700,42969.07
+Midwest,2021-05,Floor Tile,437,18591.58
+Midwest,2021-05,Wall Tile,435,15950.12
+Midwest,2021-05,Stone,484,40332.98
+Midwest,2021-05,Mosaic,525,31308.06
+Southwest,2021-05,Floor Tile,755,32047.13
+Southwest,2021-05,Wall Tile,759,28050.83
+Southwest,2021-05,Stone,720,60897.15
+Southwest,2021-05,Mosaic,709,45541.22
+West,2021-05,Floor Tile,656,27015.78
+West,2021-05,Wall Tile,612,23510.96
+West,2021-05,Stone,626,55591.63
+West,2021-05,Mosaic,563,33897.3
+Northeast,2021-06,Floor Tile,555,22510.6
+Northeast,2021-06,Wall Tile,503,18301.78
+Northeast,2021-06,Stone,484,40936.37
+Northeast,2021-06,Mosaic,548,33266.78
+Southeast,2021-06,Floor Tile,622,26664.65
+Southeast,2021-06,Wall Tile,684,25872.52
+Southeast,2021-06,Stone,682,60427.41
+Southeast,2021-06,Mosaic,695,43628.87
+Midwest,2021-06,Floor Tile,493,21603.95
+Midwest,2021-06,Wall Tile,471,17977.76
+Midwest,2021-06,Stone,492,43527.98
+Midwest,2021-06,Mosaic,509,30205.46
+Southwest,2021-06,Floor Tile,669,27557.43
+Southwest,2021-06,Wall Tile,753,28812.03
+Southwest,2021-06,Stone,687,56201.41
+Southwest,2021-06,Mosaic,744,47049.33
+West,2021-06,Floor Tile,650,27301.29
+West,2021-06,Wall Tile,597,21734.19
+West,2021-06,Stone,542,45756.86
+West,2021-06,Mosaic,576,34820.51
+Northeast,2021-07,Floor Tile,429,18850.27
+Northeast,2021-07,Wall Tile,499,19104.59
+Northeast,2021-07,Stone,510,45515.65
+Northeast,2021-07,Mosaic,484,29316.35
+Southeast,2021-07,Floor Tile,519,22356.61
+Southeast,2021-07,Wall Tile,568,21911.02
+Southeast,2021-07,Stone,619,50939.16
+Southeast,2021-07,Mosaic,581,36507.52
+Midwest,2021-07,Floor Tile,415,16717.54
+Midwest,2021-07,Wall Tile,403,15058.73
+Midwest,2021-07,Stone,430,37857.51
+Midwest,2021-07,Mosaic,401,25343.51
+Southwest,2021-07,Floor Tile,597,26190.28
+Southwest,2021-07,Wall Tile,663,25320.21
+Southwest,2021-07,Stone,618,51555.66
+Southwest,2021-07,Mosaic,601,39014.0
+West,2021-07,Floor Tile,510,21451.27
+West,2021-07,Wall Tile,570,22001.49
+West,2021-07,Stone,524,44153.6
+West,2021-07,Mosaic,487,29776.66
+Northeast,2021-08,Floor Tile,492,20923.14
+Northeast,2021-08,Wall Tile,492,18141.77
+Northeast,2021-08,Stone,472,41835.82
+Northeast,2021-08,Mosaic,462,29211.87
+Southeast,2021-08,Floor Tile,528,23225.25
+Southeast,2021-08,Wall Tile,584,21613.45
+Southeast,2021-08,Stone,532,45449.89
+Southeast,2021-08,Mosaic,577,34318.75
+Midwest,2021-08,Floor Tile,456,19942.84
+Midwest,2021-08,Wall Tile,412,15057.11
+Midwest,2021-08,Stone,443,37648.88
+Midwest,2021-08,Mosaic,434,26931.87
+Southwest,2021-08,Floor Tile,595,25826.48
+Southwest,2021-08,Wall Tile,683,25288.88
+Southwest,2021-08,Stone,630,52926.6
+Southwest,2021-08,Mosaic,676,41946.54
+West,2021-08,Floor Tile,559,24332.66
+West,2021-08,Wall Tile,496,19394.6
+West,2021-08,Stone,511,45321.16
+West,2021-08,Mosaic,520,33273.45
+Northeast,2021-09,Floor Tile,447,18395.81
+Northeast,2021-09,Wall Tile,476,18990.41
+Northeast,2021-09,Stone,467,38300.1
+Northeast,2021-09,Mosaic,471,28749.73
+Southeast,2021-09,Floor Tile,577,24339.25
+Southeast,2021-09,Wall Tile,566,21124.68
+Southeast,2021-09,Stone,536,46459.8
+Southeast,2021-09,Mosaic,580,35001.89
+Midwest,2021-09,Floor Tile,438,17556.49
+Midwest,2021-09,Wall Tile,436,16908.02
+Midwest,2021-09,Stone,441,37057.97
+Midwest,2021-09,Mosaic,429,27451.12
+Southwest,2021-09,Floor Tile,684,28714.58
+Southwest,2021-09,Wall Tile,566,21512.93
+Southwest,2021-09,Stone,635,55970.46
+Southwest,2021-09,Mosaic,670,41292.03
+West,2021-09,Floor Tile,522,21829.57
+West,2021-09,Wall Tile,543,20448.25
+West,2021-09,Stone,536,43985.27
+West,2021-09,Mosaic,516,33493.08
+Northeast,2021-10,Floor Tile,452,19349.83
+Northeast,2021-10,Wall Tile,482,18960.29
+Northeast,2021-10,Stone,500,44027.2
+Northeast,2021-10,Mosaic,456,27753.66
+Southeast,2021-10,Floor Tile,597,25724.42
+Southeast,2021-10,Wall Tile,614,22249.16
+Southeast,2021-10,Stone,522,44951.96
+Southeast,2021-10,Mosaic,620,40352.11
+Midwest,2021-10,Floor Tile,436,18191.09
+Midwest,2021-10,Wall Tile,382,14710.15
+Midwest,2021-10,Stone,446,37696.49
+Midwest,2021-10,Mosaic,432,27864.53
+Southwest,2021-10,Floor Tile,567,24519.24
+Southwest,2021-10,Wall Tile,598,22439.59
+Southwest,2021-10,Stone,579,49368.39
+Southwest,2021-10,Mosaic,632,40330.21
+West,2021-10,Floor Tile,485,19512.36
+West,2021-10,Wall Tile,558,21457.83
+West,2021-10,Stone,493,43634.96
+West,2021-10,Mosaic,482,29767.9
+Northeast,2021-11,Floor Tile,378,15487.56
+Northeast,2021-11,Wall Tile,358,14018.42
+Northeast,2021-11,Stone,429,37112.66
+Northeast,2021-11,Mosaic,370,22806.33
+Southeast,2021-11,Floor Tile,471,19955.23
+Southeast,2021-11,Wall Tile,499,18818.47
+Southeast,2021-11,Stone,461,40538.07
+Southeast,2021-11,Mosaic,456,27946.0
+Midwest,2021-11,Floor Tile,352,14395.48
+Midwest,2021-11,Wall Tile,358,13705.77
+Midwest,2021-11,Stone,388,32304.67
+Midwest,2021-11,Mosaic,387,24373.66
+Southwest,2021-11,Floor Tile,506,21392.11
+Southwest,2021-11,Wall Tile,550,21411.36
+Southwest,2021-11,Stone,482,41405.95
+Southwest,2021-11,Mosaic,530,34188.05
+West,2021-11,Floor Tile,423,18296.95
+West,2021-11,Wall Tile,451,16884.91
+West,2021-11,Stone,454,39056.52
+West,2021-11,Mosaic,457,28959.98
+Northeast,2021-12,Floor Tile,410,17802.62
+Northeast,2021-12,Wall Tile,408,16129.44
+Northeast,2021-12,Stone,409,34100.76
+Northeast,2021-12,Mosaic,393,24559.89
+Southeast,2021-12,Floor Tile,508,20461.51
+Southeast,2021-12,Wall Tile,466,18146.24
+Southeast,2021-12,Stone,454,37170.5
+Southeast,2021-12,Mosaic,490,31812.39
+Midwest,2021-12,Floor Tile,355,15526.51
+Midwest,2021-12,Wall Tile,376,13940.76
+Midwest,2021-12,Stone,376,31901.99
+Midwest,2021-12,Mosaic,375,23823.25
+Southwest,2021-12,Floor Tile,513,20716.84
+Southwest,2021-12,Wall Tile,579,21211.59
+Southwest,2021-12,Stone,579,50987.43
+Southwest,2021-12,Mosaic,554,35996.51
+West,2021-12,Floor Tile,483,20903.89
+West,2021-12,Wall Tile,430,16814.97
+West,2021-12,Stone,399,34039.03
+West,2021-12,Mosaic,438,27625.33
+Northeast,2022-01,Floor Tile,427,18085.65
+Northeast,2022-01,Wall Tile,439,17416.49
+Northeast,2022-01,Stone,380,31440.24
+Northeast,2022-01,Mosaic,373,24014.58
+Southeast,2022-01,Floor Tile,511,22353.22
+Southeast,2022-01,Wall Tile,476,17297.95
+Southeast,2022-01,Stone,537,47513.65
+Southeast,2022-01,Mosaic,484,29732.81
+Midwest,2022-01,Floor Tile,340,14917.26
+Midwest,2022-01,Wall Tile,352,13366.13
+Midwest,2022-01,Stone,337,29754.3
+Midwest,2022-01,Mosaic,340,20982.28
+Southwest,2022-01,Floor Tile,569,24479.06
+Southwest,2022-01,Wall Tile,599,22577.92
+Southwest,2022-01,Stone,577,47350.61
+Southwest,2022-01,Mosaic,541,32197.04
+West,2022-01,Floor Tile,458,19059.25
+West,2022-01,Wall Tile,500,18112.16
+West,2022-01,Stone,447,37779.88
+West,2022-01,Mosaic,500,32101.9
+Northeast,2022-02,Floor Tile,447,19122.6
+Northeast,2022-02,Wall Tile,490,19509.74
+Northeast,2022-02,Stone,472,39711.34
+Northeast,2022-02,Mosaic,455,27144.11
+Southeast,2022-02,Floor Tile,635,26549.23
+Southeast,2022-02,Wall Tile,613,23624.09
+Southeast,2022-02,Stone,605,48963.58
+Southeast,2022-02,Mosaic,628,37937.56
+Midwest,2022-02,Floor Tile,399,16866.22
+Midwest,2022-02,Wall Tile,394,15368.99
+Midwest,2022-02,Stone,406,33529.75
+Midwest,2022-02,Mosaic,463,28213.86
+Southwest,2022-02,Floor Tile,602,26296.7
+Southwest,2022-02,Wall Tile,583,22948.01
+Southwest,2022-02,Stone,601,49194.81
+Southwest,2022-02,Mosaic,615,36888.86
+West,2022-02,Floor Tile,557,22284.61
+West,2022-02,Wall Tile,487,19042.65
+West,2022-02,Stone,511,42669.55
+West,2022-02,Mosaic,504,29849.34
+Northeast,2022-03,Floor Tile,585,24634.09
+Northeast,2022-03,Wall Tile,586,22215.1
+Northeast,2022-03,Stone,589,50131.28
+Northeast,2022-03,Mosaic,515,31942.26
+Southeast,2022-03,Floor Tile,743,29781.02
+Southeast,2022-03,Wall Tile,721,28403.45
+Southeast,2022-03,Stone,686,58065.35
+Southeast,2022-03,Mosaic,746,44220.73
+Midwest,2022-03,Floor Tile,494,20543.88
+Midwest,2022-03,Wall Tile,515,19550.96
+Midwest,2022-03,Stone,537,43698.2
+Midwest,2022-03,Mosaic,455,28515.51
+Southwest,2022-03,Floor Tile,680,27917.45
+Southwest,2022-03,Wall Tile,765,29210.57
+Southwest,2022-03,Stone,719,64137.92
+Southwest,2022-03,Mosaic,749,46223.06
+West,2022-03,Floor Tile,634,25560.69
+West,2022-03,Wall Tile,646,25414.04
+West,2022-03,Stone,639,55775.87
+West,2022-03,Mosaic,648,39031.08
+Northeast,2022-04,Floor Tile,553,22595.4
+Northeast,2022-04,Wall Tile,540,20424.58
+Northeast,2022-04,Stone,549,44775.47
+Northeast,2022-04,Mosaic,550,34663.02
+Southeast,2022-04,Floor Tile,665,26959.82
+Southeast,2022-04,Wall Tile,740,26902.78
+Southeast,2022-04,Stone,728,59362.91
+Southeast,2022-04,Mosaic,627,39802.3
+Midwest,2022-04,Floor Tile,527,22258.77
+Midwest,2022-04,Wall Tile,505,19308.18
+Midwest,2022-04,Stone,479,39176.91
+Midwest,2022-04,Mosaic,482,30378.1
+Southwest,2022-04,Floor Tile,782,34052.96
+Southwest,2022-04,Wall Tile,778,30948.77
+Southwest,2022-04,Stone,760,63641.63
+Southwest,2022-04,Mosaic,756,45525.55
+West,2022-04,Floor Tile,640,26138.77
+West,2022-04,Wall Tile,572,22486.7
+West,2022-04,Stone,604,52688.22
+West,2022-04,Mosaic,630,40260.01
+Northeast,2022-05,Floor Tile,597,26263.88
+Northeast,2022-05,Wall Tile,594,22828.36
+Northeast,2022-05,Stone,574,46478.59
+Northeast,2022-05,Mosaic,606,38809.85
+Southeast,2022-05,Floor Tile,651,26468.19
+Southeast,2022-05,Wall Tile,710,26464.64
+Southeast,2022-05,Stone,661,53410.06
+Southeast,2022-05,Mosaic,733,45747.4
+Midwest,2022-05,Floor Tile,486,19680.99
+Midwest,2022-05,Wall Tile,510,18470.41
+Midwest,2022-05,Stone,521,43023.47
+Midwest,2022-05,Mosaic,488,29774.61
+Southwest,2022-05,Floor Tile,725,31124.76
+Southwest,2022-05,Wall Tile,786,30069.89
+Southwest,2022-05,Stone,683,55457.67
+Southwest,2022-05,Mosaic,694,43535.03
+West,2022-05,Floor Tile,642,26349.5
+West,2022-05,Wall Tile,641,24323.07
+West,2022-05,Stone,613,50923.09
+West,2022-05,Mosaic,652,38862.9
+Northeast,2022-06,Floor Tile,551,22640.39
+Northeast,2022-06,Wall Tile,578,21934.64
+Northeast,2022-06,Stone,577,46815.5
+Northeast,2022-06,Mosaic,547,34250.85
+Southeast,2022-06,Floor Tile,615,25317.07
+Southeast,2022-06,Wall Tile,643,23547.62
+Southeast,2022-06,Stone,649,54216.84
+Southeast,2022-06,Mosaic,615,39071.86
+Midwest,2022-06,Floor Tile,464,19254.55
+Midwest,2022-06,Wall Tile,517,19646.52
+Midwest,2022-06,Stone,529,46341.83
+Midwest,2022-06,Mosaic,454,29166.29
+Southwest,2022-06,Floor Tile,676,27025.61
+Southwest,2022-06,Wall Tile,807,31776.45
+Southwest,2022-06,Stone,756,64731.67
+Southwest,2022-06,Mosaic,776,47716.01
+West,2022-06,Floor Tile,573,22912.89
+West,2022-06,Wall Tile,599,23447.87
+West,2022-06,Stone,635,55767.11
+West,2022-06,Mosaic,673,40007.43
+Northeast,2022-07,Floor Tile,519,21238.48
+Northeast,2022-07,Wall Tile,494,18816.98
+Northeast,2022-07,Stone,475,39608.98
+Northeast,2022-07,Mosaic,470,28653.56
+Southeast,2022-07,Floor Tile,554,23292.39
+Southeast,2022-07,Wall Tile,548,20844.72
+Southeast,2022-07,Stone,642,53748.04
+Southeast,2022-07,Mosaic,621,39730.02
+Midwest,2022-07,Floor Tile,459,18769.58
+Midwest,2022-07,Wall Tile,401,14776.7
+Midwest,2022-07,Stone,440,38373.21
+Midwest,2022-07,Mosaic,445,26699.25
+Southwest,2022-07,Floor Tile,683,28669.12
+Southwest,2022-07,Wall Tile,680,26511.52
+Southwest,2022-07,Stone,641,56796.0
+Southwest,2022-07,Mosaic,656,41222.29
+West,2022-07,Floor Tile,553,24072.0
+West,2022-07,Wall Tile,553,20280.52
+West,2022-07,Stone,493,41662.82
+West,2022-07,Mosaic,518,31392.34
+Northeast,2022-08,Floor Tile,442,18577.62
+Northeast,2022-08,Wall Tile,467,17660.67
+Northeast,2022-08,Stone,442,38816.18
+Northeast,2022-08,Mosaic,444,28530.71
+Southeast,2022-08,Floor Tile,636,27019.21
+Southeast,2022-08,Wall Tile,594,22487.83
+Southeast,2022-08,Stone,600,52488.27
+Southeast,2022-08,Mosaic,641,39542.23
+Midwest,2022-08,Floor Tile,458,19528.07
+Midwest,2022-08,Wall Tile,416,15769.47
+Midwest,2022-08,Stone,401,32591.65
+Midwest,2022-08,Mosaic,397,25596.41
+Southwest,2022-08,Floor Tile,627,26898.38
+Southwest,2022-08,Wall Tile,648,23817.71
+Southwest,2022-08,Stone,615,51949.63
+Southwest,2022-08,Mosaic,640,39770.26
+West,2022-08,Floor Tile,503,20857.39
+West,2022-08,Wall Tile,516,19429.12
+West,2022-08,Stone,522,44804.32
+West,2022-08,Mosaic,571,35923.49
+Northeast,2022-09,Floor Tile,443,17851.54
+Northeast,2022-09,Wall Tile,503,18701.42
+Northeast,2022-09,Stone,507,43769.71
+Northeast,2022-09,Mosaic,525,33765.03
+Southeast,2022-09,Floor Tile,574,24307.47
+Southeast,2022-09,Wall Tile,551,20623.55
+Southeast,2022-09,Stone,649,56259.91
+Southeast,2022-09,Mosaic,581,36364.36
+Midwest,2022-09,Floor Tile,469,19322.91
+Midwest,2022-09,Wall Tile,421,16464.6
+Midwest,2022-09,Stone,459,39678.71
+Midwest,2022-09,Mosaic,460,29200.99
+Southwest,2022-09,Floor Tile,672,28298.49
+Southwest,2022-09,Wall Tile,666,25114.16
+Southwest,2022-09,Stone,630,52814.21
+Southwest,2022-09,Mosaic,606,36498.16
+West,2022-09,Floor Tile,588,24662.09
+West,2022-09,Wall Tile,510,18677.6
+West,2022-09,Stone,494,43436.25
+West,2022-09,Mosaic,496,31584.99
+Northeast,2022-10,Floor Tile,518,22590.74
+Northeast,2022-10,Wall Tile,441,16484.45
+Northeast,2022-10,Stone,511,41832.46
+Northeast,2022-10,Mosaic,474,28395.41
+Southeast,2022-10,Floor Tile,633,27306.74
+Southeast,2022-10,Wall Tile,630,23139.3
+Southeast,2022-10,Stone,586,49365.99
+Southeast,2022-10,Mosaic,614,37068.83
+Midwest,2022-10,Floor Tile,427,17548.29
+Midwest,2022-10,Wall Tile,453,17126.08
+Midwest,2022-10,Stone,434,36187.13
+Midwest,2022-10,Mosaic,458,28308.02
+Southwest,2022-10,Floor Tile,691,28638.45
+Southwest,2022-10,Wall Tile,705,28087.81
+Southwest,2022-10,Stone,643,53462.27
+Southwest,2022-10,Mosaic,632,39291.6
+West,2022-10,Floor Tile,590,25565.26
+West,2022-10,Wall Tile,572,20950.02
+West,2022-10,Stone,513,44220.61
+West,2022-10,Mosaic,580,36156.13
+Northeast,2022-11,Floor Tile,380,16512.04
+Northeast,2022-11,Wall Tile,442,16434.99
+Northeast,2022-11,Stone,434,36051.83
+Northeast,2022-11,Mosaic,446,26676.85
+Southeast,2022-11,Floor Tile,498,21849.72
+Southeast,2022-11,Wall Tile,476,17999.6
+Southeast,2022-11,Stone,489,39597.6
+Southeast,2022-11,Mosaic,459,28463.71
+Midwest,2022-11,Floor Tile,347,15294.72
+Midwest,2022-11,Wall Tile,358,12962.15
+Midwest,2022-11,Stone,398,34977.43
+Midwest,2022-11,Mosaic,378,24118.88
+Southwest,2022-11,Floor Tile,510,20963.5
+Southwest,2022-11,Wall Tile,587,22743.36
+Southwest,2022-11,Stone,511,44327.75
+Southwest,2022-11,Mosaic,545,32118.24
+West,2022-11,Floor Tile,420,17209.45
+West,2022-11,Wall Tile,489,18672.69
+West,2022-11,Stone,479,40828.07
+West,2022-11,Mosaic,423,25670.28
+Northeast,2022-12,Floor Tile,396,15879.82
+Northeast,2022-12,Wall Tile,406,15881.43
+Northeast,2022-12,Stone,409,33412.15
+Northeast,2022-12,Mosaic,446,27919.5
+Southeast,2022-12,Floor Tile,456,19181.45
+Southeast,2022-12,Wall Tile,478,17516.59
+Southeast,2022-12,Stone,497,42730.01
+Southeast,2022-12,Mosaic,478,29388.74
+Midwest,2022-12,Floor Tile,379,15258.38
+Midwest,2022-12,Wall Tile,402,14615.59
+Midwest,2022-12,Stone,369,31387.98
+Midwest,2022-12,Mosaic,403,25121.3
+Southwest,2022-12,Floor Tile,538,22528.52
+Southwest,2022-12,Wall Tile,565,22502.79
+Southwest,2022-12,Stone,523,42304.45
+Southwest,2022-12,Mosaic,582,35523.99
+West,2022-12,Floor Tile,480,20418.57
+West,2022-12,Wall Tile,483,18785.66
+West,2022-12,Stone,443,35939.2
+West,2022-12,Mosaic,463,29605.96
+Northeast,2023-01,Floor Tile,400,17268.96
+Northeast,2023-01,Wall Tile,425,16465.55
+Northeast,2023-01,Stone,439,38477.35
+Northeast,2023-01,Mosaic,390,24847.83
+Southeast,2023-01,Floor Tile,519,21347.75
+Southeast,2023-01,Wall Tile,475,17507.54
+Southeast,2023-01,Stone,475,42124.74
+Southeast,2023-01,Mosaic,525,34142.09
+Midwest,2023-01,Floor Tile,384,15730.14
+Midwest,2023-01,Wall Tile,400,14730.48
+Midwest,2023-01,Stone,369,32245.86
+Midwest,2023-01,Mosaic,408,24870.84
+Southwest,2023-01,Floor Tile,528,21883.32
+Southwest,2023-01,Wall Tile,615,23938.61
+Southwest,2023-01,Stone,616,51766.47
+Southwest,2023-01,Mosaic,625,38735.29
+West,2023-01,Floor Tile,475,20796.5
+West,2023-01,Wall Tile,477,18671.86
+West,2023-01,Stone,497,40466.18
+West,2023-01,Mosaic,485,31039.28
+Northeast,2023-02,Floor Tile,508,20954.54
+Northeast,2023-02,Wall Tile,461,17799.9
+Northeast,2023-02,Stone,484,41562.19
+Northeast,2023-02,Mosaic,496,31335.56
+Southeast,2023-02,Floor Tile,597,23926.5
+Southeast,2023-02,Wall Tile,661,24747.66
+Southeast,2023-02,Stone,677,56247.68
+Southeast,2023-02,Mosaic,675,43724.48
+Midwest,2023-02,Floor Tile,409,17414.22
+Midwest,2023-02,Wall Tile,435,17027.71
+Midwest,2023-02,Stone,464,41225.8
+Midwest,2023-02,Mosaic,415,26006.79
+Southwest,2023-02,Floor Tile,709,28392.72
+Southwest,2023-02,Wall Tile,613,23942.77
+Southwest,2023-02,Stone,654,54938.79
+Southwest,2023-02,Mosaic,681,42665.73
+West,2023-02,Floor Tile,580,25453.33
+West,2023-02,Wall Tile,545,21254.85
+West,2023-02,Stone,568,48422.23
+West,2023-02,Mosaic,548,34484.15
+Northeast,2023-03,Floor Tile,550,22207.07
+Northeast,2023-03,Wall Tile,606,23025.8
+Northeast,2023-03,Stone,566,48406.71
+Northeast,2023-03,Mosaic,551,33343.1
+Southeast,2023-03,Floor Tile,700,30859.31
+Southeast,2023-03,Wall Tile,678,26837.02
+Southeast,2023-03,Stone,707,57827.24
+Southeast,2023-03,Mosaic,758,46770.62
+Midwest,2023-03,Floor Tile,556,23223.82
+Midwest,2023-03,Wall Tile,472,18262.31
+Midwest,2023-03,Stone,550,45906.57
+Midwest,2023-03,Mosaic,499,29592.01
+Southwest,2023-03,Floor Tile,779,33998.36
+Southwest,2023-03,Wall Tile,827,32091.63
+Southwest,2023-03,Stone,838,72210.84
+Southwest,2023-03,Mosaic,818,50760.41
+West,2023-03,Floor Tile,595,24242.75
+West,2023-03,Wall Tile,597,23344.74
+West,2023-03,Stone,582,49737.24
+West,2023-03,Mosaic,627,40054.45
+Northeast,2023-04,Floor Tile,585,24845.06
+Northeast,2023-04,Wall Tile,531,19793.19
+Northeast,2023-04,Stone,637,55330.07
+Northeast,2023-04,Mosaic,582,37055.25
+Southeast,2023-04,Floor Tile,754,30318.15
+Southeast,2023-04,Wall Tile,775,29869.19
+Southeast,2023-04,Stone,701,60658.18
+Southeast,2023-04,Mosaic,686,44139.54
+Midwest,2023-04,Floor Tile,544,23167.4
+Midwest,2023-04,Wall Tile,482,19170.01
+Midwest,2023-04,Stone,508,44953.46
+Midwest,2023-04,Mosaic,469,27985.14
+Southwest,2023-04,Floor Tile,719,29185.33
+Southwest,2023-04,Wall Tile,745,28902.62
+Southwest,2023-04,Stone,749,66472.02
+Southwest,2023-04,Mosaic,833,53432.61
+West,2023-04,Floor Tile,611,26008.58
+West,2023-04,Wall Tile,650,23774.17
+West,2023-04,Stone,618,52705.86
+West,2023-04,Mosaic,644,38604.93
+Northeast,2023-05,Floor Tile,630,25545.0
+Northeast,2023-05,Wall Tile,598,23225.37
+Northeast,2023-05,Stone,591,51955.7
+Northeast,2023-05,Mosaic,586,37513.65
+Southeast,2023-05,Floor Tile,641,25698.29
+Southeast,2023-05,Wall Tile,728,27876.38
+Southeast,2023-05,Stone,729,63619.21
+Southeast,2023-05,Mosaic,696,43751.77
+Midwest,2023-05,Floor Tile,514,21862.52
+Midwest,2023-05,Wall Tile,493,19589.49
+Midwest,2023-05,Stone,513,44933.59
+Midwest,2023-05,Mosaic,534,32437.34
+Southwest,2023-05,Floor Tile,706,28347.05
+Southwest,2023-05,Wall Tile,763,28948.34
+Southwest,2023-05,Stone,727,62454.11
+Southwest,2023-05,Mosaic,743,47071.91
+West,2023-05,Floor Tile,674,29329.29
+West,2023-05,Wall Tile,705,25800.82
+West,2023-05,Stone,627,53623.57
+West,2023-05,Mosaic,620,38311.12
+Northeast,2023-06,Floor Tile,552,22599.58
+Northeast,2023-06,Wall Tile,532,19791.89
+Northeast,2023-06,Stone,566,48665.08
+Northeast,2023-06,Mosaic,550,35345.7
+Southeast,2023-06,Floor Tile,660,27241.65
+Southeast,2023-06,Wall Tile,719,26810.3
+Southeast,2023-06,Stone,745,63314.02
+Southeast,2023-06,Mosaic,710,44014.54
+Midwest,2023-06,Floor Tile,495,19798.68
+Midwest,2023-06,Wall Tile,561,21329.61
+Midwest,2023-06,Stone,563,46491.82
+Midwest,2023-06,Mosaic,500,29606.68
+Southwest,2023-06,Floor Tile,772,33663.7
+Southwest,2023-06,Wall Tile,796,30159.03
+Southwest,2023-06,Stone,778,68425.85
+Southwest,2023-06,Mosaic,762,49050.87
+West,2023-06,Floor Tile,673,29011.82
+West,2023-06,Wall Tile,626,23551.5
+West,2023-06,Stone,653,53810.18
+West,2023-06,Mosaic,650,38581.33
+Northeast,2023-07,Floor Tile,504,21727.69
+Northeast,2023-07,Wall Tile,481,19171.96
+Northeast,2023-07,Stone,522,42678.66
+Northeast,2023-07,Mosaic,551,33799.55
+Southeast,2023-07,Floor Tile,652,26943.35
+Southeast,2023-07,Wall Tile,670,26109.14
+Southeast,2023-07,Stone,578,49174.82
+Southeast,2023-07,Mosaic,616,36455.42
+Midwest,2023-07,Floor Tile,415,17138.99
+Midwest,2023-07,Wall Tile,445,16837.27
+Midwest,2023-07,Stone,457,38905.23
+Midwest,2023-07,Mosaic,432,27086.84
+Southwest,2023-07,Floor Tile,626,27581.93
+Southwest,2023-07,Wall Tile,704,26214.91
+Southwest,2023-07,Stone,650,57063.8
+Southwest,2023-07,Mosaic,676,42786.87
+West,2023-07,Floor Tile,537,23266.14
+West,2023-07,Wall Tile,545,21069.95
+West,2023-07,Stone,613,52541.13
+West,2023-07,Mosaic,593,37594.43
+Northeast,2023-08,Floor Tile,522,20886.22
+Northeast,2023-08,Wall Tile,501,19927.21
+Northeast,2023-08,Stone,532,46468.8
+Northeast,2023-08,Mosaic,511,32383.44
+Southeast,2023-08,Floor Tile,626,25425.71
+Southeast,2023-08,Wall Tile,631,24265.1
+Southeast,2023-08,Stone,658,53960.01
+Southeast,2023-08,Mosaic,638,37703.08
+Midwest,2023-08,Floor Tile,488,19696.44
+Midwest,2023-08,Wall Tile,404,15065.98
+Midwest,2023-08,Stone,416,36033.61
+Midwest,2023-08,Mosaic,439,27966.42
+Southwest,2023-08,Floor Tile,728,31715.93
+Southwest,2023-08,Wall Tile,703,25544.68
+Southwest,2023-08,Stone,623,51405.23
+Southwest,2023-08,Mosaic,648,40827.76
+West,2023-08,Floor Tile,562,23164.38
+West,2023-08,Wall Tile,523,20693.06
+West,2023-08,Stone,542,45398.7
+West,2023-08,Mosaic,590,37388.14
+Northeast,2023-09,Floor Tile,518,22176.57
+Northeast,2023-09,Wall Tile,515,18967.76
+Northeast,2023-09,Stone,478,40866.01
+Northeast,2023-09,Mosaic,476,30907.65
+Southeast,2023-09,Floor Tile,591,24298.27
+Southeast,2023-09,Wall Tile,579,22453.02
+Southeast,2023-09,Stone,593,49642.89
+Southeast,2023-09,Mosaic,669,42703.28
+Midwest,2023-09,Floor Tile,427,17255.87
+Midwest,2023-09,Wall Tile,463,17382.33
+Midwest,2023-09,Stone,491,43063.75
+Midwest,2023-09,Mosaic,488,31177.65
+Southwest,2023-09,Floor Tile,643,26432.47
+Southwest,2023-09,Wall Tile,700,26191.33
+Southwest,2023-09,Stone,664,55065.37
+Southwest,2023-09,Mosaic,669,40242.24
+West,2023-09,Floor Tile,564,24713.75
+West,2023-09,Wall Tile,581,21277.17
+West,2023-09,Stone,572,49042.17
+West,2023-09,Mosaic,531,33481.13
+Northeast,2023-10,Floor Tile,507,21587.74
+Northeast,2023-10,Wall Tile,458,17253.11
+Northeast,2023-10,Stone,525,42842.43
+Northeast,2023-10,Mosaic,531,31292.96
+Southeast,2023-10,Floor Tile,622,27244.98
+Southeast,2023-10,Wall Tile,604,23950.49
+Southeast,2023-10,Stone,662,56143.1
+Southeast,2023-10,Mosaic,578,37498.48
+Midwest,2023-10,Floor Tile,431,18366.1
+Midwest,2023-10,Wall Tile,484,17636.94
+Midwest,2023-10,Stone,454,38725.65
+Midwest,2023-10,Mosaic,467,30218.33
+Southwest,2023-10,Floor Tile,727,29541.84
+Southwest,2023-10,Wall Tile,723,26583.26
+Southwest,2023-10,Stone,728,64956.5
+Southwest,2023-10,Mosaic,658,40777.17
+West,2023-10,Floor Tile,608,26716.1
+West,2023-10,Wall Tile,607,23935.0
+West,2023-10,Stone,505,43216.73
+West,2023-10,Mosaic,516,33537.19
+Northeast,2023-11,Floor Tile,409,18018.18
+Northeast,2023-11,Wall Tile,432,16406.01
+Northeast,2023-11,Stone,465,40912.56
+Northeast,2023-11,Mosaic,425,25540.56
+Southeast,2023-11,Floor Tile,483,19601.34
+Southeast,2023-11,Wall Tile,519,19243.28
+Southeast,2023-11,Stone,490,42635.51
+Southeast,2023-11,Mosaic,554,34580.81
+Midwest,2023-11,Floor Tile,400,16254.83
+Midwest,2023-11,Wall Tile,407,16080.07
+Midwest,2023-11,Stone,405,34477.6
+Midwest,2023-11,Mosaic,349,22004.24
+Southwest,2023-11,Floor Tile,535,21662.45
+Southwest,2023-11,Wall Tile,551,20410.46
+Southwest,2023-11,Stone,543,44934.3
+Southwest,2023-11,Mosaic,600,38889.01
+West,2023-11,Floor Tile,457,19621.8
+West,2023-11,Wall Tile,429,16552.53
+West,2023-11,Stone,494,40151.36
+West,2023-11,Mosaic,439,26692.17
+Northeast,2023-12,Floor Tile,420,17644.45
+Northeast,2023-12,Wall Tile,462,17913.36
+Northeast,2023-12,Stone,412,33680.19
+Northeast,2023-12,Mosaic,464,28178.36
+Southeast,2023-12,Floor Tile,535,21838.88
+Southeast,2023-12,Wall Tile,485,17790.82
+Southeast,2023-12,Stone,549,47158.43
+Southeast,2023-12,Mosaic,514,32024.9
+Midwest,2023-12,Floor Tile,378,15935.56
+Midwest,2023-12,Wall Tile,393,14513.48
+Midwest,2023-12,Stone,361,31466.67
+Midwest,2023-12,Mosaic,409,24297.71
+Southwest,2023-12,Floor Tile,565,24213.54
+Southwest,2023-12,Wall Tile,523,20001.53
+Southwest,2023-12,Stone,521,44496.01
+Southwest,2023-12,Mosaic,571,35659.38
+West,2023-12,Floor Tile,442,18244.92
+West,2023-12,Wall Tile,477,17430.4
+West,2023-12,Stone,447,38310.92
+West,2023-12,Mosaic,437,27122.11
+Northeast,2024-01,Floor Tile,471,19689.88
+Northeast,2024-01,Wall Tile,444,16799.11
+Northeast,2024-01,Stone,404,34210.81
+Northeast,2024-01,Mosaic,470,29790.64
+Southeast,2024-01,Floor Tile,531,23007.75
+Southeast,2024-01,Wall Tile,568,21753.03
+Southeast,2024-01,Stone,492,41169.82
+Southeast,2024-01,Mosaic,494,32141.4
+Midwest,2024-01,Floor Tile,428,17201.27
+Midwest,2024-01,Wall Tile,428,15502.41
+Midwest,2024-01,Stone,387,33779.78
+Midwest,2024-01,Mosaic,415,26960.75
+Southwest,2024-01,Floor Tile,608,25332.64
+Southwest,2024-01,Wall Tile,649,24372.17
+Southwest,2024-01,Stone,635,56170.53
+Southwest,2024-01,Mosaic,576,36364.57
+West,2024-01,Floor Tile,508,21419.85
+West,2024-01,Wall Tile,508,19010.13
+West,2024-01,Stone,461,39331.0
+West,2024-01,Mosaic,495,31389.3
+Northeast,2024-02,Floor Tile,493,19677.89
+Northeast,2024-02,Wall Tile,472,17574.34
+Northeast,2024-02,Stone,540,46104.0
+Northeast,2024-02,Mosaic,525,33602.54
+Southeast,2024-02,Floor Tile,605,25019.09
+Southeast,2024-02,Wall Tile,609,24154.26
+Southeast,2024-02,Stone,666,54418.31
+Southeast,2024-02,Mosaic,677,41635.02
+Midwest,2024-02,Floor Tile,488,21282.55
+Midwest,2024-02,Wall Tile,419,15454.02
+Midwest,2024-02,Stone,426,34521.08
+Midwest,2024-02,Mosaic,473,29922.16
+Southwest,2024-02,Floor Tile,633,27225.5
+Southwest,2024-02,Wall Tile,682,25227.51
+Southwest,2024-02,Stone,656,57788.16
+Southwest,2024-02,Mosaic,634,39323.31
+West,2024-02,Floor Tile,555,24046.1
+West,2024-02,Wall Tile,606,22610.97
+West,2024-02,Stone,591,51101.71
+West,2024-02,Mosaic,559,33970.96
+Northeast,2024-03,Floor Tile,557,23768.8
+Northeast,2024-03,Wall Tile,566,21078.92
+Northeast,2024-03,Stone,547,48580.39
+Northeast,2024-03,Mosaic,645,41635.9
+Southeast,2024-03,Floor Tile,752,31354.07
+Southeast,2024-03,Wall Tile,733,29169.52
+Southeast,2024-03,Stone,798,68992.22
+Southeast,2024-03,Mosaic,775,47179.02
+Midwest,2024-03,Floor Tile,524,21236.0
+Midwest,2024-03,Wall Tile,520,20262.73
+Midwest,2024-03,Stone,530,46623.78
+Midwest,2024-03,Mosaic,512,32402.93
+Southwest,2024-03,Floor Tile,849,37136.88
+Southwest,2024-03,Wall Tile,810,32219.85
+Southwest,2024-03,Stone,809,66248.84
+Southwest,2024-03,Mosaic,759,45661.96
+West,2024-03,Floor Tile,686,30028.52
+West,2024-03,Wall Tile,713,25989.82
+West,2024-03,Stone,696,57328.89
+West,2024-03,Mosaic,636,40116.82
+Northeast,2024-04,Floor Tile,612,26664.35
+Northeast,2024-04,Wall Tile,562,21914.88
+Northeast,2024-04,Stone,627,53608.64
+Northeast,2024-04,Mosaic,597,38381.57
+Southeast,2024-04,Floor Tile,709,31138.91
+Southeast,2024-04,Wall Tile,662,26255.72
+Southeast,2024-04,Stone,801,65479.5
+Southeast,2024-04,Mosaic,807,49928.53
+Midwest,2024-04,Floor Tile,506,21473.87
+Midwest,2024-04,Wall Tile,502,19867.9
+Midwest,2024-04,Stone,539,47077.27
+Midwest,2024-04,Mosaic,520,32348.49
+Southwest,2024-04,Floor Tile,777,31855.88
+Southwest,2024-04,Wall Tile,802,30467.7
+Southwest,2024-04,Stone,736,65571.13
+Southwest,2024-04,Mosaic,795,50964.53
+West,2024-04,Floor Tile,722,29931.93
+West,2024-04,Wall Tile,655,25045.62
+West,2024-04,Stone,629,51571.93
+West,2024-04,Mosaic,635,41081.64
+Northeast,2024-05,Floor Tile,609,25367.18
+Northeast,2024-05,Wall Tile,558,20843.25
+Northeast,2024-05,Stone,585,51382.65
+Northeast,2024-05,Mosaic,600,37775.14
+Southeast,2024-05,Floor Tile,760,31145.39
+Southeast,2024-05,Wall Tile,780,31022.73
+Southeast,2024-05,Stone,754,64029.73
+Southeast,2024-05,Mosaic,685,43722.76
+Midwest,2024-05,Floor Tile,498,21376.81
+Midwest,2024-05,Wall Tile,532,21058.8
+Midwest,2024-05,Stone,538,46378.49
+Midwest,2024-05,Mosaic,486,28727.32
+Southwest,2024-05,Floor Tile,855,37508.67
+Southwest,2024-05,Wall Tile,827,32256.71
+Southwest,2024-05,Stone,786,69098.54
+Southwest,2024-05,Mosaic,757,47906.33
+West,2024-05,Floor Tile,601,25256.47
+West,2024-05,Wall Tile,650,24991.05
+West,2024-05,Stone,689,59247.4
+West,2024-05,Mosaic,664,41118.0
+Northeast,2024-06,Floor Tile,541,22839.34
+Northeast,2024-06,Wall Tile,541,20618.48
+Northeast,2024-06,Stone,573,51030.56
+Northeast,2024-06,Mosaic,542,34656.33
+Southeast,2024-06,Floor Tile,759,32854.0
+Southeast,2024-06,Wall Tile,793,28949.78
+Southeast,2024-06,Stone,674,55278.53
+Southeast,2024-06,Mosaic,688,42768.85
+Midwest,2024-06,Floor Tile,567,23259.91
+Midwest,2024-06,Wall Tile,522,19584.19
+Midwest,2024-06,Stone,523,44743.97
+Midwest,2024-06,Mosaic,585,35275.68
+Southwest,2024-06,Floor Tile,829,36029.2
+Southwest,2024-06,Wall Tile,825,32473.02
+Southwest,2024-06,Stone,841,68579.14
+Southwest,2024-06,Mosaic,781,48677.19
+West,2024-06,Floor Tile,607,24243.39
+West,2024-06,Wall Tile,623,23673.66
+West,2024-06,Stone,658,57520.52
+West,2024-06,Mosaic,675,43348.06
+Northeast,2024-07,Floor Tile,479,20174.65
+Northeast,2024-07,Wall Tile,474,17492.2
+Northeast,2024-07,Stone,560,49444.76
+Northeast,2024-07,Mosaic,519,30718.93
+Southeast,2024-07,Floor Tile,583,25528.09
+Southeast,2024-07,Wall Tile,688,26310.04
+Southeast,2024-07,Stone,578,51236.53
+Southeast,2024-07,Mosaic,614,39824.72
+Midwest,2024-07,Floor Tile,472,20324.07
+Midwest,2024-07,Wall Tile,483,18167.33
+Midwest,2024-07,Stone,424,34823.47
+Midwest,2024-07,Mosaic,439,28128.85
+Southwest,2024-07,Floor Tile,680,29692.48
+Southwest,2024-07,Wall Tile,672,26188.72
+Southwest,2024-07,Stone,645,57503.08
+Southwest,2024-07,Mosaic,727,45077.57
+West,2024-07,Floor Tile,635,25479.71
+West,2024-07,Wall Tile,572,22472.14
+West,2024-07,Stone,561,48967.75
+West,2024-07,Mosaic,632,38779.24
+Northeast,2024-08,Floor Tile,550,22013.44
+Northeast,2024-08,Wall Tile,498,19856.17
+Northeast,2024-08,Stone,521,43646.46
+Northeast,2024-08,Mosaic,568,34976.0
+Southeast,2024-08,Floor Tile,660,28165.38
+Southeast,2024-08,Wall Tile,585,22493.68
+Southeast,2024-08,Stone,676,58684.52
+Southeast,2024-08,Mosaic,584,34956.0
+Midwest,2024-08,Floor Tile,483,20557.63
+Midwest,2024-08,Wall Tile,486,18129.44
+Midwest,2024-08,Stone,427,34499.11
+Midwest,2024-08,Mosaic,446,27264.64
+Southwest,2024-08,Floor Tile,663,26822.68
+Southwest,2024-08,Wall Tile,652,24649.26
+Southwest,2024-08,Stone,703,59205.52
+Southwest,2024-08,Mosaic,630,38489.39
+West,2024-08,Floor Tile,532,22563.07
+West,2024-08,Wall Tile,559,20998.22
+West,2024-08,Stone,555,46645.69
+West,2024-08,Mosaic,531,34242.62
+Northeast,2024-09,Floor Tile,564,24820.7
+Northeast,2024-09,Wall Tile,529,19437.8
+Northeast,2024-09,Stone,509,41702.44
+Northeast,2024-09,Mosaic,501,31040.64
+Southeast,2024-09,Floor Tile,582,24284.32
+Southeast,2024-09,Wall Tile,627,23788.43
+Southeast,2024-09,Stone,584,48407.44
+Southeast,2024-09,Mosaic,605,37979.0
+Midwest,2024-09,Floor Tile,472,19220.45
+Midwest,2024-09,Wall Tile,427,15909.04
+Midwest,2024-09,Stone,505,42204.79
+Midwest,2024-09,Mosaic,475,30345.51
+Southwest,2024-09,Floor Tile,672,27757.56
+Southwest,2024-09,Wall Tile,739,29091.57
+Southwest,2024-09,Stone,762,62413.18
+Southwest,2024-09,Mosaic,671,43462.77
+West,2024-09,Floor Tile,545,22464.67
+West,2024-09,Wall Tile,633,25181.47
+West,2024-09,Stone,555,48094.71
+West,2024-09,Mosaic,578,36107.92
+Northeast,2024-10,Floor Tile,495,20532.32
+Northeast,2024-10,Wall Tile,555,20864.2
+Northeast,2024-10,Stone,481,41146.05
+Northeast,2024-10,Mosaic,531,33072.22
+Southeast,2024-10,Floor Tile,661,27901.09
+Southeast,2024-10,Wall Tile,695,26308.64
+Southeast,2024-10,Stone,664,56092.64
+Southeast,2024-10,Mosaic,611,38612.5
+Midwest,2024-10,Floor Tile,493,21318.19
+Midwest,2024-10,Wall Tile,455,17288.8
+Midwest,2024-10,Stone,476,39416.22
+Midwest,2024-10,Mosaic,478,30273.87
+Southwest,2024-10,Floor Tile,736,29595.04
+Southwest,2024-10,Wall Tile,764,28971.71
+Southwest,2024-10,Stone,682,58008.33
+Southwest,2024-10,Mosaic,754,47644.2
+West,2024-10,Floor Tile,585,25284.3
+West,2024-10,Wall Tile,563,22240.14
+West,2024-10,Stone,584,50325.93
+West,2024-10,Mosaic,531,33807.45
+Northeast,2024-11,Floor Tile,457,18915.7
+Northeast,2024-11,Wall Tile,456,16538.36
+Northeast,2024-11,Stone,486,42043.14
+Northeast,2024-11,Mosaic,434,27587.92
+Southeast,2024-11,Floor Tile,592,24691.08
+Southeast,2024-11,Wall Tile,489,18133.69
+Southeast,2024-11,Stone,543,46241.76
+Southeast,2024-11,Mosaic,551,34419.02
+Midwest,2024-11,Floor Tile,390,16201.68
+Midwest,2024-11,Wall Tile,415,15909.71
+Midwest,2024-11,Stone,394,32970.8
+Midwest,2024-11,Mosaic,356,21199.16
+Southwest,2024-11,Floor Tile,581,25528.71
+Southwest,2024-11,Wall Tile,546,21662.31
+Southwest,2024-11,Stone,549,45787.19
+Southwest,2024-11,Mosaic,586,35266.99
+West,2024-11,Floor Tile,491,20572.84
+West,2024-11,Wall Tile,486,18831.38
+West,2024-11,Stone,475,39568.57
+West,2024-11,Mosaic,523,31177.88
+Northeast,2024-12,Floor Tile,474,20202.58
+Northeast,2024-12,Wall Tile,459,16856.57
+Northeast,2024-12,Stone,486,40252.1
+Northeast,2024-12,Mosaic,414,24795.64
+Southeast,2024-12,Floor Tile,548,24071.2
+Southeast,2024-12,Wall Tile,513,19308.9
+Southeast,2024-12,Stone,508,43786.59
+Southeast,2024-12,Mosaic,534,31549.25
+Midwest,2024-12,Floor Tile,403,16413.69
+Midwest,2024-12,Wall Tile,401,15068.61
+Midwest,2024-12,Stone,410,33824.66
+Midwest,2024-12,Mosaic,414,26460.45
+Southwest,2024-12,Floor Tile,539,21736.45
+Southwest,2024-12,Wall Tile,635,23374.63
+Southwest,2024-12,Stone,571,48328.97
+Southwest,2024-12,Mosaic,563,36171.82
+West,2024-12,Floor Tile,495,21079.21
+West,2024-12,Wall Tile,502,19288.33
+West,2024-12,Stone,501,41937.39
+West,2024-12,Mosaic,527,33057.47
