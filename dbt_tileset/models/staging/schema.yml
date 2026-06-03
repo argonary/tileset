@@ -1,0 +1,87 @@
+version: 2
+
+sources:
+  - name: tileset_bronze
+    database: workspace
+    schema: tileset_bronze
+    description: "Raw Delta tables produced by the Bronze ingestion notebook and dbt seed."
+    tables:
+      - name: raw_mortgage30us
+        description: "Weekly 30-year fixed mortgage rates from FRED."
+        config:
+          loaded_at_field: _ingested_at
+          freshness:
+            warn_after: {count: 10, period: day}
+            error_after: {count: 35, period: day}
+        columns:
+          - name: obs_date
+            tests: [not_null, unique]
+          - name: rate_pct
+            tests: [not_null]
+
+      - name: raw_houst
+        description: "Monthly housing starts from FRED."
+        config:
+          loaded_at_field: _ingested_at
+          freshness:
+            warn_after: {count: 40, period: day}
+            error_after: {count: 70, period: day}
+        columns:
+          - name: obs_date
+            tests: [not_null, unique]
+          - name: starts_thousands
+            tests: [not_null]
+
+      - name: raw_permit
+        description: "Monthly building permits from FRED."
+        config:
+          loaded_at_field: _ingested_at
+          freshness:
+            warn_after: {count: 40, period: day}
+            error_after: {count: 70, period: day}
+        columns:
+          - name: obs_date
+            tests: [not_null, unique]
+          - name: permits_issued
+            tests: [not_null]
+
+models:
+  - name: stg_mortgage_rates
+    description: "Cleaned weekly mortgage rates. One row per week."
+    columns:
+      - name: obs_date
+        tests: [not_null, unique]
+      - name: rate_pct
+        tests: [not_null]
+
+  - name: stg_housing_starts
+    description: "Cleaned monthly housing starts. One row per month."
+    columns:
+      - name: obs_date
+        tests: [not_null, unique]
+      - name: starts_thousands
+        tests: [not_null]
+
+  - name: stg_building_permits
+    description: "Cleaned monthly building permits. One row per month."
+    columns:
+      - name: obs_date
+        tests: [not_null, unique]
+      - name: permits_issued
+        tests: [not_null]
+
+  - name: stg_regional_sales
+    description: "Cleaned regional sales. One row per region per month per product line."
+    columns:
+      - name: region
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['Northeast', 'Southeast', 'Midwest', 'Southwest', 'West']
+      - name: sale_month
+        tests: [not_null]
+      - name: units_sold
+        tests: [not_null]
+      - name: revenue
+        tests: [not_null]
